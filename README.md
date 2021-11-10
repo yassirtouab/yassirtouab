@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yassir, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 🌱 I’m currently a student at 42 Abu Dhabi
-- 📫 How to reach me: contact@yassirtouab.com IG: @yassirtouab
+- 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 
 # 42 Cursus
 
