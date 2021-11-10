@@ -11,6 +11,7 @@
 Project | Description | Intra
 ------- | ----------- | -----
 
+[Libft](https://github.com/yassirtouab/libft) | The aim of this project is to code a C library usual functions. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/Libft)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 yassirtouab/yassirtouab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
