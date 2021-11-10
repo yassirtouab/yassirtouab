@@ -7,7 +7,7 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=ytouab)](https://github.com/yassirtouab)
 
-## Projects done so far:
+## 42 Projects done so far:
 
 Project | Description | Intra
 ------- | ----------- | -----
