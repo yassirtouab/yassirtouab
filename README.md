@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 🌱 I’m currently a student at 42 Abu Dhabi
 - 📫 How to reach me: contact@yassirtouab.com IG: @yassirtouab
-- 
+
 # 42 Cursus
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=ytouab)](https://github.com/yassirtouab)
