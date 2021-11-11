@@ -13,6 +13,9 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirtouab)](https://github.com/yassirtouab)
+
+
 
 
 ## 42 Projects done so far:
