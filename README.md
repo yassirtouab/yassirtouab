@@ -26,7 +26,7 @@ Project | Description | Intra
 [Get next line](https://github.com/yassirtouab/get_next_line)| The aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/get_next_line)](https://github.com/yassirtouab)
 [Printf](https://github.com/yassrtouab/ft_printf)|The aim of this project is to recode Printf. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/ft_printf)](https://github.com/yassirtouab)
 [Minitalk](https://github.com/yassirtouab/minitalk)| The purpose of this project is to code a small data exchange program using UNIX signals. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/minitalk)](https://github.com/yassirtouab)
-[Exam Rank 02](https://github.com/yassirtouab/exam-rank-02)| Exam Rank 02 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/Exam-Rank-02)](https://github.com/yassirtouab)
+[Exam Rank 02](https://github.com/yassirtouab/exam-rank-02)| Exam Rank 02 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/exam-rank-02)](https://github.com/yassirtouab)
 
 <!---
 yassirtouab/yassirtouab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
