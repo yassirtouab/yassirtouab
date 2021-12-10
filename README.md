@@ -9,9 +9,9 @@
 
 # 42 Cursus
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=ytouab)](https://github.com/yassirtouab)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=ytouab)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab)](https://github.com/yassirtouab)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab)
 
 # 42 Piscine
 
