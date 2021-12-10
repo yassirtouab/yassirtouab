@@ -3,6 +3,7 @@
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark)
 
 # 42 Cursus
 
