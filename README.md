@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yassir, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark)
 
 # 42 Cursus
