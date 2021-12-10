@@ -2,6 +2,14 @@
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark)
 
