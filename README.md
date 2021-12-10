@@ -27,6 +27,8 @@ Project | Description | Intra
 [Printf](https://github.com/yassrtouab/ft_printf)|The aim of this project is to recode Printf. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/ft_printf)](https://github.com/yassirtouab)
 [Minitalk](https://github.com/yassirtouab/minitalk)| The purpose of this project is to code a small data exchange program using UNIX signals. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/minitalk)](https://github.com/yassirtouab)
 [Exam Rank 02](https://github.com/yassirtouab/exam-rank-02)| Exam Rank 02 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/ft_printf)](https://github.com/yassirtouab)
+[push_swap](https://github.com/yassirtouab/push_swap)| push_swap | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/push_swap)](https://github.com/yassirtouab)
+[so_long](https://github.com/yassirtouab/so_long)| so_long | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/so_long)](https://github.com/yassirtouab) 
 
 <!---
 yassirtouab/yassirtouab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
