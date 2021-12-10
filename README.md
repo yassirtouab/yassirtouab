@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yassir, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark)
 
 # 42 Cursus
 
@@ -11,8 +12,6 @@
 # 42 Piscine
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark)
 
 
 
