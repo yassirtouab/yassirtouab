@@ -9,37 +9,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark" />
 </a>
 
-
-
-<table style="border:none;" width=100% cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width=50% style="padding: 0px; border:none;" align="center">
+<a href="https://github.com/yassirtouab">
+    <h1>42 Piscine</h1>
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
+</a>
 
 <a href="https://github.com/yassirtouab">
   <h1>42 Cursus</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
 </a>
 
-</td>
-<td width=50% style="padding: 0px; border:none;" align="left">
-
-<a href="https://github.com/yassirtouab">
-    <h1>42 Piscine</h1>
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<div style="  display: flex; justify-content: space-between;">
-  <a href="https://github.com/yassirtouab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/yassirtouab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark" />
-</a>
-</div>
 
 
 
