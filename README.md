@@ -10,10 +10,11 @@
 </a>
 
 <a href="https://github.com/yassirtouab">
-  <h2>42 CURSUS</h2>
+  <h1>42 Cursus</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
 </a>
 <a href="https://github.com/yassirtouab">
+    <h1>42 Piscine</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
 </a>
 
