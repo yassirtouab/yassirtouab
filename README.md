@@ -10,9 +10,11 @@
 </a>
 
 <a href="https://github.com/yassirtouab">
+  # 42 Cursus
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
 </a>
 <a href="https://github.com/yassirtouab">
+  # 42 Piscine
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
 </a>
 
