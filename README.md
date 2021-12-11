@@ -11,9 +11,9 @@
 
 
 
-<table width=100% cellspacing="0" cellpadding="0" border="0">
+<table width=100% cellspacing="0" cellpadding="0" border="">
 <tr>
-<td width=50% style="padding: 0px; border:none; border-left:none;border-top:none;" align="center">
+<td width=50% style="padding: 0px; border:none;" align="center">
 
 <a href="https://github.com/yassirtouab">
   <h1>42 Cursus</h1>
@@ -21,7 +21,7 @@
 </a>
 
 </td>
-<td width=50% style="padding: 0px; border:none; border-left:none;border-top:none;" align="left">
+<td width=50% style="padding: 0px; border:none;" align="left">
 
 <a href="https://github.com/yassirtouab">
     <h1>42 Piscine</h1>
