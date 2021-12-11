@@ -32,6 +32,15 @@
 </tr>
 </table>
 
+<div style="  display: flex; justify-content: space-between;">
+  <a href="https://github.com/yassirtouab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/yassirtouab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark" />
+</a>
+</div>
+
 
 
 ## 42 Projects done so far:
