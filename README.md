@@ -18,14 +18,6 @@
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
 </a>
 
-# 42 Cursus
-
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab)
-
-# 42 Piscine
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab)
-
 
 
 
