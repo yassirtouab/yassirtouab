@@ -2,16 +2,21 @@
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yassirtouab">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yassirtouab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark" />
 </a>
 
-# 42 Cursus
+<a href="https://github.com/yassirtouab">
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
+</a>
+<a href="https://github.com/yassirtouab">
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
+</a>
 
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=ytouab)
+# 42 Cursus
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ytouab)
 
