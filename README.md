@@ -11,7 +11,7 @@
 
 
 
-<table width=100% cellspacing="0" cellpadding="0" border="">
+<table style="border:none;" width=100% cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width=50% style="padding: 0px; border:none;" align="center">
 
