@@ -9,19 +9,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark" />
 </a>
 
-<a href="https://github.com/yassirtouab">
-  <h1>42 Cursus</h1>
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
-</a>
-<a href="https://github.com/yassirtouab">
-    <h1>42 Piscine</h1>
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
-</a>
 
 
-<table width="520" cellspacing="0" cellpadding="0" border="0">
+<table width=100% cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="250" style="padding: 5px;" align="center">
+<td width=50% style="padding: 0px; border:none;" align="center">
 
 <a href="https://github.com/yassirtouab">
   <h1>42 Cursus</h1>
@@ -29,7 +21,7 @@
 </a>
 
 </td>
-<td width="250" style="padding: 5px;" align="left">
+<td width=50% style="padding: 0px; border:none;" align="left">
 
 <a href="https://github.com/yassirtouab">
     <h1>42 Piscine</h1>
