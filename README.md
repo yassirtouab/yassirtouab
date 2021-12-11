@@ -19,17 +19,26 @@
 </a>
 
 
-    <div style="width: 50%; height: 50%; background-color: green; float:left;">
-    <a href="https://github.com/yassirtouab">
+<table width="520" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="250" style="padding: 5px;" align="center">
+
+<a href="https://github.com/yassirtouab">
   <h1>42 Cursus</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
 </a>
-</div>
-    <div style="width: 50%; height: 50%; background-color: blue; float:right;"><a href="https://github.com/yassirtouab">
+
+</td>
+<td width="250" style="padding: 5px;" align="left">
+
+<a href="https://github.com/yassirtouab">
     <h1>42 Piscine</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
-</a></div>
-    <div style="width: 100%; height: 50%; background-color: red; clear:both">-</div>
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
