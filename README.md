@@ -1,14 +1,47 @@
-- 👋 Hi, I’m Yassir, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
+## 👋 Hi, I’m Yassir Touab
+- <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 - My personal website: [yassirtouab.com](https://yassirtouab.com/)
 
-<a href="https://github.com/yassirtouab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark" />
+<h1>Connect with me:</h1>
+
+<a href="https://yassirtouab.com">
+  <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://github.com/yassirtouab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&layout=compact&theme=onedark" />
+
+<a href="https://instagram.com/yassirtouab">
+  <img align="left" alt="instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
+
+<a href="https://github.com/yassirtouab">
+  <img align="left" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+</a>
+
+<a href="https://twitter.com/touabyassir">
+  <img align="left" alt="twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+</a>
+
+<a href="https://linkedin.com/in/yassirtouab">
+  <img align="left" alt="linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+</a>
+
+<a href="https://youtube.com/yassirtouab">
+  <img align="left" alt="youtube" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
+</a>
+
+<br/>
+
+## Languages and Tools: 
+<br/>
+
+<a href="https://github.com/yassirtouab?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&theme=onedark"/>
+</a>
+<a href="https://github.com/yassirtouab?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&line_height=40&show_icons=true&theme=onedark">
+</a>
+
 
 <a href="https://github.com/yassirtouab">
     <h1>42 Piscine</h1>
