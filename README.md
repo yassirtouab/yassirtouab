@@ -49,13 +49,13 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark&line_height=33" alt="Yassir's github stats"/>
 </a>
 
-
 <a href="https://github.com/yassirtouab">
     <h1>42 Piscine</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
 </a>
 
-<a href="https://github.com/yassirtouab">
+
+<a align="center" href="https://github.com/yassirtouab">
   <h1>42 Cursus</h1>
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
 </a>
