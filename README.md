@@ -1,5 +1,7 @@
-## 👋 Hi, I’m Yassir Touab
-- <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" />  Student at [42 Abu Dhabi](https://42abudhabi.ae/).
+## 👋 Hi, I’m [Yassir Touab](https://yassirtouab.com/)
+
+
+- <a href="https://42abudhabi.ae/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 
@@ -49,18 +51,13 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark&line_height=33" alt="Yassir's github stats"/>
 </a>
 
-<a href="https://github.com/yassirtouab">
-    <h1>42 Piscine</h1>
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab" />
-</a>
+<h1>42 Piscine</h1>
 
+[![ytouab's 42 piscine stats](https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab)
 
-<a align="center" href="https://github.com/yassirtouab">
-  <h1>42 Cursus</h1>
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ytouab" />
-</a>
+ <h1>42 Cursus</h1>
 
-
+[![ytouab's 42 cursus stats](https://badge42.herokuapp.com/api/stats/ytouab)](https://github.com/yassirtouab)
 
 
 ## 42 Projects done so far:
