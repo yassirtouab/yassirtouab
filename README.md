@@ -7,6 +7,10 @@
 
 <h1>Connect with me:</h1>
 
+<a href="mailto:contact@yassirtouab.com">
+  <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/maildotru.svg" />
+</a>
+
 <a href="https://yassirtouab.com">
   <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
