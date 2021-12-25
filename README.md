@@ -7,31 +7,31 @@
 
 <h1>Connect with me:</h1>
 
-<a href="mailto:contact@yassirtouab.com">
+<a href="mailto:contact@yassirtouab.com" target="_blank">
   <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/maildotru.svg" />
 </a>
 
-<a href="https://yassirtouab.com">
+<a href="https://yassirtouab.com" target="_blank">
   <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
-<a href="https://github.com/yassirtouab">
+<a href="https://github.com/yassirtouab" target="_blank">
   <img align="left" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/yassirtouab">
+<a href="https://instagram.com/yassirtouab" target="_blank">
   <img align="left" alt="instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
 
-<a href="https://twitter.com/touabyassir">
+<a href="https://twitter.com/touabyassir" target="_blank">
   <img align="left" alt="twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 </a>
 
-<a href="https://linkedin.com/in/yassirtouab">
+<a href="https://linkedin.com/in/yassirtouab" target="_blank">
   <img align="left" alt="linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 </a>
 
-<a href="https://youtube.com/yassirtouab">
+<a href="https://youtube.com/yassirtouab" target="_blank">
   <img align="left" alt="youtube" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 </a>
 
