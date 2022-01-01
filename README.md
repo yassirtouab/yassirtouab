@@ -8,31 +8,31 @@
 <h1>Connect with me:</h1>
 
 <a href="mailto:contact@yassirtouab.com" target="_blank">
-  <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/maildotru.svg" />
+  <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/communication.png?raw=true" />
 </a>
 
 <a href="https://yassirtouab.com" target="_blank">
-  <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/website.png?raw=true" />
 </a>
 
 <a href="https://github.com/yassirtouab" target="_blank">
-  <img align="left" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+  <img align="left" alt="github" height="32" width="32" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/github.png?raw=true" />
 </a>
 
 <a href="https://instagram.com/yassirtouab" target="_blank">
-  <img align="left" alt="instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
+  <img align="left" alt="instagram" height="32" width="32" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/instagram.png?raw=true" />
 </a>
 
 <a href="https://twitter.com/touabyassir" target="_blank">
-  <img align="left" alt="twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+  <img align="left" alt="twitter" height="32" width="32" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/twitter.png?raw=true" />
 </a>
 
 <a href="https://linkedin.com/in/yassirtouab" target="_blank">
-  <img align="left" alt="linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+  <img align="left" alt="linkedin" height="32" width="32" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/linkedin.png?raw=true" />
 </a>
 
 <a href="https://youtube.com/yassirtouab" target="_blank">
-  <img align="left" alt="youtube" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
+  <img align="left" alt="youtube" height="32" width="32" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/youtube.png?raw=true" />
 </a>
 
 <br/>
