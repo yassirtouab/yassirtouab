@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m [Yassir Touab](https://yassirtouab.com/)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yassirtouab&left_color=gray&right_color=blue)
+
 
 - <a href="https://42abudhabi.ae/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
