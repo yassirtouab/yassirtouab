@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
 - 📫 How to reach me: contact@yassirtouab.com IG: [@yassirtouab](https://instagram.com/yassirtouab)
 
-<h1>Connect with me:</h1>
+## Connect with me:
 
 <a href="mailto:contact@yassirtouab.com" target="_blank">
   <img align="left" alt="yassirtouab.com" height="32" width="32px" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/communication.png?raw=true" />
@@ -51,9 +51,10 @@
 
 <br/>
 <br/>
+<br/>
 
 <details>
-<summary><b>Github Analytics</b></summary>
+<summary><b>📈 Github Analytics</b></summary>
  <br/>
 <a href="https://github.com/yassirtouab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&theme=onedark" />
@@ -63,6 +64,9 @@
 </a>
 </details>
 
+<details>	
+  <br />
+  <summary><b>🇦🇪 42 ABU DHABI Progress</b></summary>
 <h1>42 Piscine</h1>
 
 [![ytouab's 42 piscine stats](https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab)
@@ -70,6 +74,7 @@
  <h1>42 Cursus</h1>
 
 [![ytouab's 42 cursus stats](https://badge42.herokuapp.com/api/stats/ytouab)](https://github.com/yassirtouab)
+
 
 
 ## 42 Projects done so far:
@@ -85,6 +90,7 @@ Project | Description | Intra
 [push_swap](https://github.com/yassirtouab/push_swap)| This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/push_swap)](https://github.com/yassirtouab)
 [so_long](https://github.com/yassirtouab/so_long)| This project is a small 2D game with minilibx. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/so_long)](https://github.com/yassirtouab) 
 
+ </details>
 
 
 <div align="center">
