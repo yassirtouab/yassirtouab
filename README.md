@@ -60,7 +60,7 @@
 <br/>
 
 <details>
-<summary><b>📈 Github Analytics</b></summary>
+<summary><b>📈 Github Stats</b></summary>
  <br/>
 <a href="https://github.com/yassirtouab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&theme=onedark" />
