@@ -1,4 +1,4 @@
-## 👋 Hi, I’m [Yassir Touab](https://yassirtouab.com/)
+<h1 align="center">👋 Hi, I’m <a href="https://yassirtouab.com" target="_blank">Yassir Touab</a></h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yassirtouab&left_color=gray&right_color=blue)
 
