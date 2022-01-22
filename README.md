@@ -2,7 +2,6 @@
 
 [![yassirtouab.com, Marketer, designer and developer.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Marketer%2C%20designer%20and%20developer.&title=yassirtouab.com)](https://yassirtouab.com)
 
-[![Visitor Counter for yassirtouab](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=yassirtouab)](https://github.com/yassirtouab)
 
 - <a href="https://42abudhabi.ae/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
