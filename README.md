@@ -1,7 +1,8 @@
-<h1 align="center">👋 Hi, I’m <a href="https://yassirtouab.com" target="_blank">Yassir Touab</a></h1>
+[![HI, I'm Yassir Touab!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b_1f5a5-fe0f&text=HI%252C%2520I%27m%2520Yassir%2520Touab%21)](https://yassirtouab.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yassirtouab&left_color=gray&right_color=blue)
+[![yassirtouab.com, Marketer, designer and developer.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Marketer%2C%20designer%20and%20developer.&title=yassirtouab.com)](https://yassirtouab.com)
 
+[![Visitor Counter for yassirtouab](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=yassirtouab)](https://github.com/yassirtouab)
 
 - <a href="https://42abudhabi.ae/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
@@ -98,6 +99,7 @@ Project | Description | Intra
 
  </details>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yassirtouab&left_color=gray&right_color=blue)
 
 <div align="center">
 
