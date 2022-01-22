@@ -1,7 +1,11 @@
-[![HI, I'm Yassir Touab!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b_1f5a5-fe0f&text=HI%252C%2520I%27m%2520Yassir%2520Touab%21)](https://yassirtouab.com)
+***
+</br>
 
+[![HI, I'm Yassir Touab!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b_1f5a5-fe0f&text=HI%252C%2520I%27m%2520Yassir%2520Touab%21)](https://yassirtouab.com)
+***
 [![yassirtouab.com, Marketer, designer and developer.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Marketer%2C%20designer%20and%20developer.&title=yassirtouab.com)](https://yassirtouab.com)
 
+<br/>
 
 - <a href="https://42abudhabi.ae/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 - 👀 I’m interested in Web Dev, Digital Marketing and Saas
@@ -42,12 +46,13 @@
 </a>
 
 <br/>
+<br/>
 
 ## Languages and Tools: 
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/> <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 
-
+##
 
 <details>
 <summary><b>📈 Github Stats</b></summary>
