@@ -68,13 +68,14 @@
 <details>	
   <br />
   <summary><b>🇦🇪 42 ABU DHABI Progress</b></summary>
+ 
 <h1>42 Piscine</h1>
-
-[![ytouab's 42 piscine stats](https://badge42.herokuapp.com/api/stats/ytouab?cursus=C%20Piscine)](https://github.com/yassirtouab)
+  
+  [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/stats/cl18busdt000609l29mvyqim9?cursusId=9)](https://github.com/yassirouab)
 
  <h1>42 Cursus</h1>
 
-[![ytouab's 42 cursus stats](https://badge42.herokuapp.com/api/stats/ytouab)](https://github.com/yassirtouab)
+  [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/stats/cl18busdt000609l29mvyqim9?cursusId=21)](https://github.com/yassirtouab)
 
 
 
