@@ -11,6 +11,8 @@
 - 👀 I’m interested in Web Dev, Digital Marketing and SAAS.
 - 📫 How to reach me: [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
 
+<a align="center" href="https://app.daily.dev/yassirtouab"><img src="https://api.daily.dev/devcards/84acf64683f541b197040ba3ab08abff.png?r=zqz" width="300" alt="Yassir Touab's Dev Card"/></a>
+
 ## Connect with me:
 
 <a href="mailto:contact@yassirtouab.com" target="_blank">
