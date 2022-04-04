@@ -85,14 +85,14 @@
 
 Project | Description | Intra
 ------- | ----------- | -----
-[Libft](https://github.com/yassirtouab/libft) | The aim of this project is to code a C library usual functions. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/Libft)](https://github.com/yassirtouab)
-[Born2beroot](https://github.com/yassirtouab/born2beroot)| This project aims to introduce you to the wonderful world of virtualization. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/Born2beroot)](https://github.com/yassirtouab)
-[get_next_line](https://github.com/yassirtouab/get_next_line)| The aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/get_next_line)](https://github.com/yassirtouab)
-[ft_printf](https://github.com/yassrtouab/ft_printf)|The aim of this project is to recode Printf. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/ft_printf)](https://github.com/yassirtouab)
-[minitalk](https://github.com/yassirtouab/minitalk)| The purpose of this project is to code a small data exchange program using UNIX signals. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/minitalk)](https://github.com/yassirtouab)
-[Exam Rank 02](https://github.com/yassirtouab/exam-rank-02)| Exam Rank 02 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/ft_printf)](https://github.com/yassirtouab)
-[push_swap](https://github.com/yassirtouab/push_swap)| This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/push_swap)](https://github.com/yassirtouab)
-[so_long](https://github.com/yassirtouab/so_long)| This project is a small 2D game with minilibx. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ytouab/so_long)](https://github.com/yassirtouab) 
+[Libft](https://github.com/yassirtouab/libft) | The aim of this project is to code a C library usual functions. | [![ytouab's 42 Libft Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444227)](https://github.com/yassirtouab)
+[Born2beroot](https://github.com/yassirtouab/born2beroot)| This project aims to introduce you to the wonderful world of virtualization. | [![ytouab's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444295)](https://github.com/yassirtouab)
+[get_next_line](https://github.com/yassirtouab/get_next_line)| The aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor. | [![ytouab's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444294)](https://github.com/yassirtouab)
+[ft_printf](https://github.com/yassrtouab/ft_printf)|The aim of this project is to recode Printf. | [![ytouab's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444292)](https://github.com/yassirtouab)
+[minitalk](https://github.com/yassirtouab/minitalk)| The purpose of this project is to code a small data exchange program using UNIX signals. | [![ytouab's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444296)](https://github.com/yassirtouab)
+[Exam Rank 02](https://github.com/yassirtouab/exam-rank-02)| Exam Rank 02 | [![ytouab's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2524513)](https://github.com/yassirtouab)
+[push_swap](https://github.com/yassirtouab/push_swap)| This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. | [![ytouab's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444297)](https://github.com/yassirtouab)
+[so_long](https://github.com/yassirtouab/so_long)| This project is a small 2D game with minilibx. | [![ytouab's 42 so_long Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444301)](https://github.com/yassirtouab) 
 
  </details>
 
