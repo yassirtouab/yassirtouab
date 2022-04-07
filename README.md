@@ -73,7 +73,7 @@
  
 <h1>42 Piscine</h1>
   
-  [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/stats/cl18busdt000609l29mvyqim9?cursusId=9)](https://github.com/yassirouab)
+  [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/stats?cursusId=9&coalitionId=187)](https://github.com/yassirouab)
 
  <h1>42 Cursus</h1>
 
@@ -93,6 +93,8 @@ Project | Description | Intra
 [Exam Rank 02](https://github.com/yassirtouab/exam-rank-02)| Exam Rank 02 | [![ytouab's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2524513)](https://github.com/yassirtouab)
 [push_swap](https://github.com/yassirtouab/push_swap)| This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. | [![ytouab's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444297)](https://github.com/yassirtouab)
 [so_long](https://github.com/yassirtouab/so_long)| This project is a small 2D game with minilibx. | [![ytouab's 42 so_long Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444301)](https://github.com/yassirtouab) 
+[Exam Rank 03](https://github.com/yassirtouab/exam-rank-03)| Exam Rank 03 | [![ytouab's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554426)](https://github.com/yassirtouab)
+
 
  </details>
 
