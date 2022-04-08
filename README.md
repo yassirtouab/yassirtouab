@@ -94,6 +94,8 @@ Project | Description | Intra
 [push_swap](https://github.com/yassirtouab/push_swap)| This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. | [![ytouab's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444297)](https://github.com/yassirtouab)
 [so_long](https://github.com/yassirtouab/so_long)| This project is a small 2D game with minilibx. | [![ytouab's 42 so_long Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2444301)](https://github.com/yassirtouab) 
 [Exam Rank 03](https://github.com/yassirtouab/exam-rank-03)| Exam Rank 03 | [![ytouab's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554426)](https://github.com/yassirtouab)
+[Philosophers](https://github.com/yassirtouab/42-Philosophers)| In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes. | [![ytouab's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554423)](https://github.com/yassirtouab)
+[minishell](https://github.com/yassirtouab/42-minishell)| The objective of this project is for you to create a simple shell.| [![ytouab's 42 minishell Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554424)](https://github.com/yassirtouab)
 
 
  </details>
