@@ -59,12 +59,17 @@
 <details>
 <summary><b>📈 Github Stats</b></summary>
  <br/>
+ <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassirtouab&theme=onedark" />
+
+  
 <a href="https://github.com/yassirtouab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirtouab&theme=onedark" />
 </a>
 <a href="https://github.com/yassirtouab">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark&line_height=33" alt="Yassir's github stats"/>
 </a>
+<img align="center" width="80%" src="https://github-profile-trophy.vercel.app/?username=yassirtouab&theme=onedark" />
+
 </details>
 
 <details>	
