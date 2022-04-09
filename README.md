@@ -59,7 +59,7 @@
 <details>
 <summary><b>📈 Github Stats</b></summary>
  <br/>
- <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassirtouab&theme=onedark" />
+ <img align="center" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassirtouab&theme=onedark" />
 
   
 <a href="https://github.com/yassirtouab">
