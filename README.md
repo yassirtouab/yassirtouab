@@ -75,6 +75,12 @@
   
   [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/stats?cursusId=9&coalitionId=187)](https://github.com/yassirouab)
 
+<h3>Week 1 & 2:</h3>
+  
+| Project     | Shell00 | Shell01 | Exam00 | C00 | C01 | Rush00 | C02 | Exam01 | C03 |
+| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Grade       | [![ytouab's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2207249)](https://github.com/JaeSeoKim/badge42)       | [![ytouab's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2207982)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2212174)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2210618)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2213034)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2214855)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2216821)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2220322)](https://github.com/JaeSeoKim/badge42) | [![ytouab's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2217835)](https://github.com/JaeSeoKim/badge42) |
+  
  <h1>42 Cursus</h1>
 
   [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/stats/cl18busdt000609l29mvyqim9?cursusId=21)](https://github.com/yassirtouab)
