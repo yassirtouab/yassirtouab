@@ -1,8 +1,9 @@
 ***
 </br>
+<h1 href="https://yassirtouab.com" align="center">Hi 👋, I'm Yassir Touab</h1>
 
-[![HI, I'm Yassir Touab!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b_1f5a5-fe0f&text=HI%252C%2520I%27m%2520Yassir%2520Touab%21)](https://yassirtouab.com)
 ***
+
 [![yassirtouab.com, Marketer, designer and developer.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Marketer%2C%20designer%20and%20developer.&title=yassirtouab.com)](https://yassirtouab.com)
 
 <br/>
