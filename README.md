@@ -73,7 +73,7 @@
 
 <details>
   <br />
-  <summary><b> <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> 42 ABU DHABI Progress</b></summary>
+  <summary><b> 🇦🇪 42 ABU DHABI Progress</b></summary>
 
 <h1>42 Piscine</h1>
 
