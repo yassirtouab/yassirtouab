@@ -2,7 +2,7 @@
 <h1 href="https://yassirtouab.com" align="center">Hi <img alt="Wave" height="32" width="32px" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/GIF/wave.gif"> , I'm Yassir Touab</h1>
 
 
-<!-- [![yassirtouab.com, Marketer, designer and developer.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Marketer%2C%20designer%20and%20developer.&title=yassirtouab.com)](https://yassirtouab.com) -->
+[![yassirtouab.com, Marketer, designer and developer.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Marketer%2C%20designer%20and%20developer.&title=yassirtouab.com)](https://yassirtouab.com)
 
 <br/>
 
