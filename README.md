@@ -11,7 +11,7 @@
   
 <a href="https://www.42network.org/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [![Abu Dhabi](https://img.shields.io/badge/Abu_Dhabi-7100FE?logo=42&logoColor=FF5E4E)](https://42abudhabi.ae).
 
-👀 I’m interested in Web Development, Digital Marketing and SAAS.
+👀 I’m interested in <b>Web Development</b>, <b>Digital Marketing</b> and <b>SAAS</b>.
   
 📫 How to reach me: [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
   
@@ -64,8 +64,9 @@
 
 ##
 
+<div align="center">
 <details>
-<summary><b>📈 Github Stats</b></summary>
+<summary><h2>📈 Github Stats</h2></summary>
  <br/>
  <img align="center" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassirtouab&theme=onedark" />
 
@@ -77,16 +78,15 @@
  <img align="center" height="260px" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark&line_height=33" alt="Yassir's github stats"/>
 </a>
 <img align="center" width="80%" src="https://github-profile-trophy.vercel.app/?username=yassirtouab&theme=onedark" />
-
 </details>
 
 <details>
-  <br />
-  <summary><b> 🇦🇪 42 ABU DHABI Progress</b></summary>
+<br/>
+<summary><h2> 🇦🇪 42 ABU DHABI Progress</h2></summary>
 
 <h1>42 Piscine</h1>
 
-  [![ytouab's 42 stats](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/stats?cursusId=9&coalitionId=187)](https://github.com/yassirouab)
+[![ytouab's 42 stats](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/stats?cursusId=9&coalitionId=187)](https://github.com/yassirouab)
 
 
 | Shell00 | Shell01 | Exam00 | C00 | C01 | Rush00 | C02 | C03 | Exam01 |
@@ -96,6 +96,8 @@
 | C04 | C05 | C06 | C07 | Exam02 | C08 | C09 | C11 | Final Exam |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [![ytouab's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2221083)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2225798)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2226363)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2226658)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2229577)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine C 08 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2232077)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine C 09 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2236240)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine C 11 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2241217)](https://github.com/yassirtouab) | [![ytouab's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2229577)](https://github.com/yassirtouab) |
+
+<br/>
 
  <h1>42 Cursus</h1>
 
@@ -120,6 +122,7 @@ Project | Description | Intra
 [minishell](https://github.com/yassirtouab/42-minishell)| The objective of this project is for you to create a simple shell.| [![ytouab's 42 minishell Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554424)](https://github.com/yassirtouab)
 [Exam Rank 04](https://github.com/yassirtouab/exam-rank-04)| Exam Rank 04 | [![ytouab's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554423)](https://github.com/yassirtouab)
 
+</div>
 
  </details>
 
