@@ -82,7 +82,7 @@
 
 <details>
 <br/>
-<summary><h2> 🇦🇪 42 ABU DHABI Progress</h2></summary>
+<summary><h2>  <a href="https://github.com/yassirtouab/yassirtouab/edit/main/README.md#----42-abu-dhabi-progress" ><img width="26" alt="UAE" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/Icons/uae.png?raw=true"/></a>  42 ABU DHABI Progress</h2></summary>
 
 <h1>42 Piscine</h1>
 
