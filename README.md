@@ -1,16 +1,25 @@
 
-<h1 href="https://yassirtouab.com" align="center">Hi <img alt="Wave" height="32" width="32px" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/GIF/wave.gif"> , I'm Yassir Touab</h1>
+<h1 align="center">Hi <a href="https://yassirtouab.com"><img alt="Wave" height="32" width="32px" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/GIF/wave.gif"></a> , I'm Yassir Touab</h1>
 
-
-[![yassirtouab.com](https://github.com/yassirtouab/yassirtouab/blob/main/README/GIF/YASSIRTOUAB-COM.gif)](https://yassirtouab.com)
+<div align="center">
+  <a href="https://yassirtouab.com"><img alt="YASSIRTOUAB.COM" href="https://yassirtouab.com" src="https://github.com/yassirtouab/yassirtouab/blob/main/README/GIF/YASSIRTOUAB-COM.gif"></a>
+</div>
 
 <br/>
 
-- <a href="https://www.42network.org/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [![Abu Dhabi](https://img.shields.io/badge/Abu_Dhabi-7100FE?logo=42&logoColor=FF5E4E)](https://42abudhabi.ae).
-- 👀 I’m interested in Web Development, Digital Marketing and SAAS.
-- 📫 How to reach me: [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
+<div align="center">
+  
+<a href="https://www.42network.org/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [![Abu Dhabi](https://img.shields.io/badge/Abu_Dhabi-7100FE?logo=42&logoColor=FF5E4E)](https://42abudhabi.ae).
 
-<a align="center" href="https://app.daily.dev/yassirtouab"><img src="https://api.daily.dev/devcards/84acf64683f541b197040ba3ab08abff.png?r=zqz" width="300" alt="Yassir Touab's Dev Card"/></a>
+👀 I’m interested in Web Development, Digital Marketing and SAAS.
+  
+📫 How to reach me: [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
+  
+</div>
+
+<div align="center">
+  <a href="https://app.daily.dev/yassirtouab"><img src="https://api.daily.dev/devcards/84acf64683f541b197040ba3ab08abff.png?r=zqz" width="300" alt="Yassir   Touab's Dev Card"/></a>
+</div>
 
 ## Connect with me:
 
