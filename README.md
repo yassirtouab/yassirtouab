@@ -11,7 +11,7 @@
   
 <a href="https://www.42network.org/"><img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> Student at [![Abu Dhabi](https://img.shields.io/badge/Abu_Dhabi-7100FE?logo=42&logoColor=FF5E4E)](https://42abudhabi.ae).
 
-👀 I’m interested in <b>Web Development</b>, <b>Digital Marketing</b> and <b>SAAS</b>.
+👀 I’m interested in <b>Web3</b>, <b>Digital Marketing</b> and <b>SAAS</b>.
   
 📫 How to reach me: [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
   
