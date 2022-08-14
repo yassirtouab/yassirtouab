@@ -126,9 +126,9 @@ Project | Description | Intra
 
  </details>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yassirtouab&left_color=gray&right_color=blue) -->
-
 <div align="center">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yassirtouab&left_color=gray&right_color=blue)
 
 ### Show some ❤️ by starring some of the repositories!
 
