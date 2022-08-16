@@ -13,7 +13,7 @@
 
 👀 I’m interested in <b>Web3</b>, <b>Digital Marketing</b> and <b>SAAS</b>
   
-📫 How to reach me: [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
+📫 How to reach me:  [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
   
 </div>
 
