@@ -77,8 +77,12 @@
 <a href="https://github.com/yassirtouab">
  <img align="center" height="260px" src="https://github-readme-stats.vercel.app/api?username=yassirtouab&show_icons=true&theme=onedark&line_height=33" alt="Yassir's github stats"/>
 </a>
+<!-- <a href="https://github.com/yassirtouab">
 <img align="center" width="80%" src="https://github-profile-trophy.vercel.app/?username=yassirtouab&theme=onedark" />
-</details>
+ </a>  This Serverless Function has crashed. --> 
+
+
+  </details>
 
 <details>
 <br/>
