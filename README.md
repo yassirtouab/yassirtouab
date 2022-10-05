@@ -124,7 +124,11 @@ Project | Description | Intra
 [Exam Rank 03](https://github.com/yassirtouab/exam-rank-03)| Exam Rank 03 | [![ytouab's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554426)](https://github.com/yassirtouab)
 [Philosophers](https://github.com/yassirtouab/42-Philosophers)| In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes. | [![ytouab's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554423)](https://github.com/yassirtouab)
 [minishell](https://github.com/yassirtouab/42-minishell)| The objective of this project is for you to create a simple shell.| [![ytouab's 42 minishell Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554424)](https://github.com/yassirtouab)
-[Exam Rank 04](https://github.com/yassirtouab/exam-rank-04)| Exam Rank 04 | [![ytouab's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2554423)](https://github.com/yassirtouab)
+[Exam Rank 04](https://github.com/yassirtouab/exam-rank-04)| Exam Rank 04 | [![ytouab's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2816509)](https://github.com/yassirtouab)
+[cub3d](https://github.com/yassirtouab/42-cub3d)| cub3d |[![ytouab's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2816508)](https://github.com/yassirtouab) |
+[NetPractice](https://github.com/yassirtouab/42-netpractice)| NetPractice |[![ytouab's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2816507)](https://github.com/yassirtouab) |
+[CPP Module 00](https://github.com/yassirtouab/42-cpp-module-00)| CPP Module 00 | [![ytouab's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2816506)](https://github.com/JaeSeoKim/badge42)
+
 
 </div>
 
