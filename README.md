@@ -15,6 +15,8 @@
   
 📫 How to reach me:  [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
   
+📄 Download my <a href="https://yassirtouab.com/assets/pdf/Yassir-Touab-CV.pdf" target="_blank">Updated CV</a> 
+  
 </div>
 
 <div align="center">
