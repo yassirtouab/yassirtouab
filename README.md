@@ -137,7 +137,11 @@ Project | Description | Intra
 [CPP Module 05](https://github.com/yassirtouab/42-cpp-module-05)| CPP Module 04 | [![ytouab's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2952764)](https://github.com/yassirtouab)
 [CPP Module 06](https://github.com/yassirtouab/42-cpp-module-06)| CPP Module 06 | [![ytouab's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2953320)](https://github.com/yassirtouab)
 [CPP Module 07](https://github.com/yassirtouab/42-cpp-module-07)| CPP Module 07 | [![ytouab's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2954999)](https://github.com/yassirtouab)
-[CPP Module 08](https://github.com/yassirtouab/42-cpp-module-08)| CPP Module 08 | [![ytouab's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2954999)](https://github.com/yassirtouab)
+[CPP Module 08](https://github.com/yassirtouab/42-cpp-module-08)| CPP Module 08 | [![ytouab's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2958685)](https://github.com/yassirtouab)
+[Exam Rank 05](https://github.com/yassirtouab/exam-rank-05)| Exam Rank 05 | [![ytouab's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2960955)](https://github.com/yassirtouab)
+[ft_irc](https://github.com/yassirtouab/ft_irc)| ft_irc | [![ytouab's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2960956)](https://github.com/yassirtouab)
+[ft_containers](https://github.com/yassirtouab/ft_containers)| ft_containers | [![ytouab's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2960953)](https://github.com/yassirtouab)
+[Inception](https://github.com/yassirtouab/Inception)| Inception | [![ytouab's 42 Inception Score](https://badge42.vercel.app/api/v2/cl18busdt000609l29mvyqim9/project/2960954)](https://github.com/yassirtouab)
   
 </div>
 
