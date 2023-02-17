@@ -14,8 +14,8 @@
 👀 I’m interested in <b>Web3</b>, <b>Digital Marketing</b> and <b>SAAS</b>
   
 📫 How to reach me:  [![Inbox - contact@yassirtouab.com](https://img.shields.io/static/v1?label=Inbox&message=contact%40yassirtouab.com&color=%232FB9E6&logo=mail.ru&logoColor=white)](mailto:contact@yassirtouab.com) [![yassirtouab](https://img.shields.io/static/v1?label=&message=yassirtouab&color=%23E4405F&logo=instagram&logoColor=white)](https://instagram.com/yassirtouab)
-  
-📄 Download my <a href="https://yassirtouab.com/assets/pdf/Yassir-Touab-CV.pdf" target="_blank">Updated CV</a> 
+    
+📄 Click to <a href="https://yassirtouab.com/assets/pdf/Yassir-Touab-CV.pdf" target="_blank">[![CV](https://img.shields.io/badge/Download-My%20CV-yellow)](https://42abudhabi.ae)</a> 
   
 </div>
 
